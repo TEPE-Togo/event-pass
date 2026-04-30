@@ -2,7 +2,7 @@
 
 > **Poste visé :** Stagiaire Développeur Full Stack  
 > **Stack attendue :** Next.js · Tailwind · FastAPI · PostgreSQL · Redis · Docker  
-> **Soumission :** Fork ce repo → développe → envoie le lien de ton repo à [recrutement@karaba.africa]
+> **Soumission :** Fork ce repo → développe → envoie le lien de ton repo à [careers@karaba.africa]
 
 ---
 
@@ -196,7 +196,7 @@ eventpass/
    - URL d'un événement exemple
    - Identifiants admin de test
    - Comment tester le scan (QR code d'exemple ou instructions)
-5. Envoie le lien de ton repo GitHub à **recrutement@karaba.africa** avec en objet : `[STAGE FULLSTACK] Ton Nom`
+5. Envoie le lien de ton repo GitHub à **careers@karaba.africa** avec en objet : `[STAGE FULLSTACK] Ton Nom`
 
 > ⚠️ Un repo sans Docker Compose fonctionnel, sans génération de PDF opérationnelle, ou sans endpoint `/scan` sera automatiquement écarté.
 
